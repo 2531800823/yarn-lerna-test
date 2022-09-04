@@ -18,5 +18,8 @@
   "dependencies": {
     "@lerna-publish/utils": "^0.0.6"
   },
-  "gitHead": "3b8ddf90be007ba571e6d2d45ecbb3e6569b602b"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "262fef85e97cccc3085abaf97b4ab9702c159352"
 }
