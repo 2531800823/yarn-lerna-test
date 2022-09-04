@@ -1,6 +1,6 @@
 {
   "name": "@lerna-publish/core",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "2531800823 <2531800823@qq.com>",
   "homepage": "",
@@ -16,6 +16,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@lerna-publish/utils": "^0.0.0"
+    "@lerna-publish/utils": "^0.0.1"
   }
 }
