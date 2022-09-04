@@ -14,5 +14,8 @@
   ],
   "scripts": {
     "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@lerna-publish/utils": "^0.0.0"
   }
 }
