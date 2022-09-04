@@ -13,7 +13,8 @@
     "lib"
   ],
   "scripts": {
-    "test": "node ./__tests__/core.test.js"
+    "test": "node ./__tests__/core.test.js",
+    "dev": "node index.js"
   },
   "dependencies": {
     "@lerna-publish/utils": "^0.0.7"
