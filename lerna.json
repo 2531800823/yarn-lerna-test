@@ -3,5 +3,6 @@
   "useNx": true,
   "useWorkspaces": true,
   "version": "0.0.3",
-  "access": "public"
+  "access": "public",
+  "registry": "https://registry.npmjs.org/"
 }
